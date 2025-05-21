@@ -1,2 +1,0 @@
-# GitProject1Repo
-Practice
